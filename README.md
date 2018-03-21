@@ -1,23 +1,6 @@
 # Go-and-Docker-Training
 
-
-## Organizational Stuff
-
-## What is this repository about? 
-
-The idea behind this repository is to follow a "bootcamp" like approach, which is implementing some stuff and getting a feel of what these various technologies are and how they work.  
-
-## Found an error in the material? Or need to improve any particular material? 
-
-Please feel free to either raise an issue or update it and create a pull request.
-
-## Request new material?
-
-Sure! Please create an issue and I will try to get back to it.
-
-## Want to contribute?
-
-Great! Just drop me a message, with what you want to contribute and we shall get started! 
+Lets learn docker and go-land together! 
 
 ## Content
 
@@ -54,3 +37,23 @@ Based on the application you just created, write your first docker file to creat
 
 #### Minikube
 #### Architecture
+
+
+## Organizational Stuff
+
+## What is this repository about? 
+
+The idea behind this repository is to follow a "bootcamp" like approach, which is implementing some stuff and getting a feel of what these various technologies are and how they work.  
+
+## Found an error in the material? Or need to improve any particular material? 
+
+Please feel free to either raise an issue or update it and create a pull request.
+
+## Request new material?
+
+Sure! Please create an issue and I will try to get back to it.
+
+## Want to contribute?
+
+Great! Just drop me a message, with what you want to contribute and we shall get started! 
+
