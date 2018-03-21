@@ -10,8 +10,12 @@ One of the first things to do before we get started, is to install all the tools
 
 [Guide](https://golang.org/doc/install)
 
-### (Optional) Install Goland (IDE for go development)
+### (Optional) IDE
 
-[Installation link](https://www.jetbrains.com/go/)
+[Installation link](https://www.jetbrains.com/go/) --> my preference
+
+But you can also check out other IDE's available
+
+[Official IDE list](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins)
 
 
