@@ -13,9 +13,19 @@ Expose the port (8080), which we are listening to in our application and start o
 
 Now that we understand the dockerfile, lets see it in action
 
-Creating a docker Image,
+You can now create a docker image by running the following command,
 	
 	docker build -t "test" .
 
-Run it 
+Using this above command, you are asking docker to a build an image called "test" based on the "Dockerfile" which is present in the current directory.
+
+We have the image now, next step? Run it! you can do this by running the following command,
+ 
 	docker run -d -p 8080:8080 test:latest
+
+
+There are a couple of things going on in the above command, lets look into them. 
+
+-d --> specifies that the container should run in a detached mode
+-p --> Maps the port of the host to that of the container
+test:latest --> the image we want the container to be based on and latest specifies the tag that we want it to use. 
