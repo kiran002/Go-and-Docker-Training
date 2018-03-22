@@ -6,7 +6,7 @@ Lets learn docker and go-land together!
 
 ### Task-1: (Go) Hello world server
 
-we start of with writing a simple http server in golang, which returns "Hello world" string. This will act as our first application, that we can use to get started.
+We start off with writing a very basic http server in golang, which returns "Hello world" string. This will act as our first application, that we can use to get started.
  
 
 ### Task-2: (Docker) Running your first container
