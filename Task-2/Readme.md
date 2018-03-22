@@ -5,6 +5,8 @@ Now lets look at the Dockerfile, we create in order to containarize our server w
 	EXPOSE 8080
 	ENTRYPOINT ["/server"]
 
+*Before you get started, please make sure to copy the main.go from the Task-1 directory*
+
 Scratch is the most basic image.It is empty,  literally 0 Bytes! Once we define the base image, we just copy the executable we had compiled earlier (although to be honest, we compile it a bit differently in order for it to work with scratch). Look at the command below
 
 	CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo -o server .
