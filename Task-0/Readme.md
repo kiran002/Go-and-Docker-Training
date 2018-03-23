@@ -19,3 +19,7 @@ But you can also check out other IDE's available
 [Official IDE list](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins)
 
 
+### Install docker-compose
+
+[Installation link](https://docs.docker.com/compose/install/)
+
