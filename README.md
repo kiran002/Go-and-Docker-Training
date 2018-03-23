@@ -1,6 +1,6 @@
 # Go-and-Docker-Training
 
-Lets learn docker and go-land together! 
+Lets learn docker and golang together! 
 
 ## Content
 
