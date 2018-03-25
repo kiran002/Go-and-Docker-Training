@@ -23,3 +23,11 @@ But you can also check out other IDE's available
 
 [Installation link](https://docs.docker.com/compose/install/)
 
+
+### Minikube Installation
+
+You only need this if you want to do the kubernetes task, You cannot run minikube if you are already running in a VM. Only Windows 10, Linux and mac os are supported
+
+
+[Follow instructions here](https://kubernetes.io/docs/tasks/tools/install-minikube/)
+
