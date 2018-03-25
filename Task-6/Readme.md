@@ -43,7 +43,12 @@ You can access the endpoint with,
 	
 	minikube service first-service
 
+## Cleaning up 
 
+
+	kubectl delete deployments hello-world
+	kubectl delete services first-service
+	minikube stop
 
 
 
