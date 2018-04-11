@@ -13,7 +13,8 @@ One of the first things to do before we get started, is to install all the tools
 ```
 curl -LO https://dl.google.com/go/go1.10.1.linux-amd64.tar.gz
 tar xvf go1.10.1.linux-amd64.tar.gz
-echo "export PATH=\$PATH:~/go/bin/" >> ~/bash_profile
+echo "export PATH=\$PATH:~/go/bin/" >> ~/.bash_profile
+source ~/.bash_profile
 
 ```
 
